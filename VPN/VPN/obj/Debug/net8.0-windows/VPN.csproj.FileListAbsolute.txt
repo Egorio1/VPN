@@ -1,0 +1,16 @@
+D:\C#\VPN\VPN\VPN\obj\Debug\net8.0-windows\VPN.csproj.GenerateResource.cache
+D:\C#\VPN\VPN\VPN\obj\Debug\net8.0-windows\VPN.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\VPN\VPN\VPN\obj\Debug\net8.0-windows\VPN.AssemblyInfoInputs.cache
+D:\C#\VPN\VPN\VPN\obj\Debug\net8.0-windows\VPN.AssemblyInfo.cs
+D:\C#\VPN\VPN\VPN\obj\Debug\net8.0-windows\VPN.csproj.CoreCompileInputs.cache
+D:\C#\VPN\VPN\VPN\bin\Debug\net8.0-windows\VPN.exe
+D:\C#\VPN\VPN\VPN\bin\Debug\net8.0-windows\VPN.deps.json
+D:\C#\VPN\VPN\VPN\bin\Debug\net8.0-windows\VPN.runtimeconfig.json
+D:\C#\VPN\VPN\VPN\bin\Debug\net8.0-windows\VPN.dll
+D:\C#\VPN\VPN\VPN\bin\Debug\net8.0-windows\VPN.pdb
+D:\C#\VPN\VPN\VPN\obj\Debug\net8.0-windows\VPN.dll
+D:\C#\VPN\VPN\VPN\obj\Debug\net8.0-windows\refint\VPN.dll
+D:\C#\VPN\VPN\VPN\obj\Debug\net8.0-windows\VPN.pdb
+D:\C#\VPN\VPN\VPN\obj\Debug\net8.0-windows\VPN.genruntimeconfig.cache
+D:\C#\VPN\VPN\VPN\obj\Debug\net8.0-windows\ref\VPN.dll
+D:\C#\VPN\VPN\VPN\obj\Debug\net8.0-windows\VPN.VPN.resources
