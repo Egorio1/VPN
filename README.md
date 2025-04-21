@@ -1,1 +1,1 @@
-# VPN
+# Код VPN через WireGuard
